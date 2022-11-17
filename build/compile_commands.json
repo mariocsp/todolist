@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/apollyon/fukuro/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/lib.dir/src/todolist.cpp.o -c /home/apollyon/fukuro/src/todolist.cpp",
+  "file": "/home/apollyon/fukuro/src/todolist.cpp"
+},
+{
+  "directory": "/home/apollyon/fukuro/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/todlist.dir/src/main.cpp.o -c /home/apollyon/fukuro/src/main.cpp",
+  "file": "/home/apollyon/fukuro/src/main.cpp"
+}
+]

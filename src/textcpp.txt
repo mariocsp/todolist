@@ -1,0 +1,8 @@
+agenda anda pada hari Jumat adalah:  test
+agenda anda pada hari Kamis adalah:  test
+agenda anda pada hari Minggu adalah:  test
+agenda anda pada hari Rabu adalah:  test
+agenda anda pada hari Sabtu adalah:  test
+agenda anda pada hari Selasa adalah:  test
+agenda anda pada hari Senin adalah:  test
+
