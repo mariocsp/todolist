@@ -1,1 +1,1 @@
-/usr/bin/g++  -g  -rdynamic CMakeFiles/todlist.dir/src/main.cpp.o  -o todlist  -ltodolist 
+/usr/bin/g++  -g  -rdynamic CMakeFiles/todlist.dir/src/main.cpp.o  -o todlist  liblib.a 

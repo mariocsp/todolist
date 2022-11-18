@@ -79,6 +79,7 @@ todlist_EXTERNAL_OBJECTS =
 
 todlist: CMakeFiles/todlist.dir/src/main.cpp.o
 todlist: CMakeFiles/todlist.dir/build.make
+todlist: liblib.a
 todlist: CMakeFiles/todlist.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/apollyon/fukuro/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable todlist"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/todlist.dir/link.txt --verbose=$(VERBOSE)
