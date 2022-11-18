@@ -13,7 +13,7 @@ void todolist::terima()
 
 void todolist::tulis()
 {
-    std::fstream fw("textcpp.txt", std::ofstream::out);
+    std::fstream fw("src/textcpp.txt", std::ofstream::out);
     std::map<std::string, std::string>::iterator it = dict.begin();
 
     if (fw.is_open())
@@ -26,5 +26,5 @@ void todolist::tulis()
         fw<<"\n";
         fw.close();
     }
-    else std::cout << "Problem with opening file";
+    else std::cout << "\nProblem with opening file";
 }

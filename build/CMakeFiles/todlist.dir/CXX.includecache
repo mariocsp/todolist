@@ -6,15 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/home/apollyon/fukuro/src/main.cpp
-todolist.h
-/home/apollyon/fukuro/src/todolist.h
-
-/home/apollyon/fukuro/src/todolist.h
-iostream
--
-bits/stdc++.h
--
-fstream
--
-

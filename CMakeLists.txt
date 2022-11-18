@@ -7,7 +7,7 @@ enable_testing()
 add_library(lib src/todolist.cpp)
 add_executable(todlist src/main.cpp)
 
-target_link_libraries(todlist todolist)
+target_link_libraries(todlist lib)
 
 
 
